@@ -1,0 +1,1 @@
+# simple-astro-themed-neofetch-config
